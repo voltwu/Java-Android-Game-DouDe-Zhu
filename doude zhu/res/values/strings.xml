@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">斗地主</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="desc"></string>
+    <string name="none"></string>
+    <string name="mid_tip_text">欢迎参与斗地主</string>
+    <string name="mid_tip_text_fenzhuo">请稍后,系统正在分桌</string>
+    <string name="mid_tip_icon_text">游戏</string>
+    <string name="dishu_value">0</string>
+    <string name="dishu_value_text">底数</string>
+    <string name="bieshu_value">0</string>
+    <string name="bieshu_value_text">倍数</string>
+</resources>
