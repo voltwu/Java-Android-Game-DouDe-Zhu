@@ -13,6 +13,12 @@ Android project build target: Android 4.4.2
 
 Chinese name of the game : 斗地主游戏
 
+# Tested In Android Version
+
+Huawei Honor, Android 4.4.4
+
+Huawei Honor, Android 6.0
+
 # Demonstration
 
 ![server started](screenshots/a.png)
