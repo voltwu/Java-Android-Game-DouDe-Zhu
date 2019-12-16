@@ -11,6 +11,8 @@ Java compile version: Java 1.6
 
 Android project build target: Android 4.4.2 
 
+Language: Chinese
+
 Chinese name of the game : 斗地主游戏
 
 # Tested In Android Version
